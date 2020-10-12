@@ -1,4 +1,4 @@
-### Shuvam Mandal
+# Shuvam Mandal
 
 
 <!--
@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coffeeCoder69&show_icons=true&theme=radical)
+![Shuvam's github stats](https://github-readme-stats.vercel.app/api?username=coffeeCoder69&show_icons=true&theme=radical)
+
+### Public Use Repositories:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=coffeeCoder69&repo=MITworkshops&theme=radical)](https://github.com/coffeeCoder69/MITworkshops)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=coffeeCoder69&repo=Sem_3_recordings&theme=radical)](https://github.com/coffeeCoder69/Sem_3_recordings)
+
 
 
 
