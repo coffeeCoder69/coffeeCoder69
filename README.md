@@ -1,6 +1,6 @@
 # Shuvam Mandal
 
-
+#### Follow me here 👉 [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/coffeeCoder69)
 <!--
 **coffeeCoder69/coffeeCoder69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,11 +23,3 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=coffeeCoder69&repo=MITworkshops&theme=radical)](https://github.com/coffeeCoder69/MITworkshops)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=coffeeCoder69&repo=Sem_3_recordings&theme=radical)](https://github.com/coffeeCoder69/Sem_3_recordings)
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeeCoder69&langs_count=10)](https://github.com/coffeeCoder69)-->
-
-
-
-
-
